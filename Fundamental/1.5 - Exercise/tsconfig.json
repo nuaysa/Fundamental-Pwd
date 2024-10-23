@@ -1,0 +1,10 @@
+{
+        "compilerOptions": {
+        "target": "ES6", 
+        "module": "CommonJs",
+        "strict": true,
+        "moduleDetection": "force",
+        "lib" :["ES2017", "DOM"]
+    }
+
+}
